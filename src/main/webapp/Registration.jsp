@@ -17,7 +17,7 @@
 </style>
 </head>
 <body class="custom-bg-color">
-	<%@ include file="Front-End Dependency/navBar.jsp"%>
+	
 
 	<div
 		class="container d-flex justify-content-center align-items-center vh-100">
