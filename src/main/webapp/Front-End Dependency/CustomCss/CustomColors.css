@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+
+.custom-bg-color {
+	background-color: #0b090a;
+}
+
+.custom-text-color-orange {
+	color: #ffba08; /* Replace with your desired color #ff9f1c */
+}
+.custom-btn-bgcolor-orange {
+	background-color: #ffba08; /* Replace with your desired color */
+}
