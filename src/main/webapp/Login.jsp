@@ -37,8 +37,7 @@
 								type="password" class="form-control" id="exampleInputPassword1">
 						</div>
 
-						<button type="submit" class="btn custom-btn-bgcolor-orange ">Log
-							In</button>
+						<a href="Home.jsp"> <input type="button" class="btn custom-btn-bgcolor-orange " value="Login"></a>
 					</form>
 				</div>
 				<!-- Image Column -->
