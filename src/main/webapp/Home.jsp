@@ -10,8 +10,11 @@
 <title>HomePage</title>
 <link rel="stylesheet" href="Front-End Dependency/CustomCss/CustomColors.css">
 </head>
-<body>
+<body class="custom-bg-color">
 <%@ include file="Front-End Dependency/HomenavBar.jsp" %>
 <%@ include file="Front-End Dependency/carousel.jsp" %>
+<%@ include file="Front-End Dependency/Cards.jsp" %>
+<%@ include file="Front-End Dependency/ServicesProviding.jsp" %>
+<%@ include file="Front-End Dependency/Footer.jsp" %>
 </body>
 </html>

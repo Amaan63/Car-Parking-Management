@@ -15,6 +15,7 @@
 				class=" custom-text-color-orange ">Car Parking Management Home page</span> </a>
 			<div class="text-end">
 				 <span class=" custom-text-color-orange ">Users</span>
+				 <a href="index.jsp">Index Page</a>
 			</div>
 
 		</div>

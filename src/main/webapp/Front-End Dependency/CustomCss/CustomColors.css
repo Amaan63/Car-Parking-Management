@@ -10,4 +10,10 @@
 }
 .custom-btn-bgcolor-orange {
 	background-color: #ffba08; /* Replace with your desired color */
+	color: black; /* Ensure text color contrasts well */
+    border: none;
+    border-radius: 25px;
+}
+.card-border{
+	border-color: white;
 }

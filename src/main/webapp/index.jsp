@@ -11,8 +11,9 @@
 <link rel="stylesheet" href="Front-End Dependency/CustomCss/CustomColors.css">
 </head>
 <body class="custom-bg-color" >
-<%@ include file="Front-End Dependency/IndexnavBar.jsp" %>
-<%@ include file="Front-End Dependency/carousel.jsp" %>
 
+<%@ include file="../Front-End Dependency/navBar.jsp" %>
+<%@ include file="../Front-End Dependency/carousel.jsp" %>
+<%@ include file="../Front-End Dependency/Footer.jsp" %>
 </body>
 </html>

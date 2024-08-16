@@ -18,7 +18,7 @@
 			<div class="text-end">
 				<a href="Login.jsp"> <input type="button" class="btn btn-success " value="Login"></a>
 				<a href="Registration.jsp"> <input type="button" class="btn btn-danger "value="Register"></a>
-				
+				<a href="Home.jsp">Home</a>
 			</div>
 
 		</div>
