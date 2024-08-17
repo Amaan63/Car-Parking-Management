@@ -30,7 +30,7 @@
 							facility offers secure, convenient spaces tailored to meet your
 							needs, ensuring that your vehicle is safe while you focus on your
 							day.</p>
-						<a href="#"><input type="button"
+						<a href="AddVehicle.jsp"><input type="button"
 							class="col-md-12 custom-btn-bgcolor-orange" value="Book a Slot"></a>
 					</div>
 				</div>
