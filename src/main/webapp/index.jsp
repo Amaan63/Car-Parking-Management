@@ -14,6 +14,8 @@
 
 <%@ include file="../Front-End Dependency/navBar.jsp" %>
 <%@ include file="../Front-End Dependency/carousel.jsp" %>
+<%@ include file="../Front-End Dependency/ServicesForIndex.jsp" %>
+
 <%@ include file="../Front-End Dependency/Footer.jsp" %>
 </body>
 </html>

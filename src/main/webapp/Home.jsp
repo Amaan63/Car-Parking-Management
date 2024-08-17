@@ -15,6 +15,7 @@
 <%@ include file="Front-End Dependency/carousel.jsp" %>
 <%@ include file="Front-End Dependency/Cards.jsp" %>
 <%@ include file="Front-End Dependency/ServicesProviding.jsp" %>
+<%@ include file="Front-End Dependency/teamSection.jsp" %>
 <%@ include file="Front-End Dependency/Footer.jsp" %>
 </body>
 </html>

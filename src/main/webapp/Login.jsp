@@ -16,8 +16,8 @@
 }
 </style>
 </head>
-<body class="custom-bg-color">
-	
+<body class="custom-bg-color ">
+
 	<div
 		class="container d-flex justify-content-center align-items-center vh-100">
 		<div class="card p-4 custom-bg-color" style="width: 40rem;">
@@ -37,7 +37,12 @@
 								type="password" class="form-control" id="exampleInputPassword1">
 						</div>
 
-						<a href="Home.jsp"> <input type="button" class=" custom-btn-bgcolor-orange " value="Login"></a>
+						<a href="Home.jsp"> <input type="button"
+							class=" custom-btn-bgcolor-orange " value="Login"></a>
+						<div class="align-end m-2"> 
+						<h6 class="text-light">Not Registered yet ?</h6> 
+						<a href="Registration.jsp"><input type="button" class="btn-large custom-btn-bgcolor-orange" value="Register"></a>
+						</div>
 					</form>
 				</div>
 				<!-- Image Column -->

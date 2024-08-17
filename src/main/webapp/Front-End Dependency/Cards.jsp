@@ -21,7 +21,7 @@
 		<div class="row">
 			<!-- Image Column -->
 			<div class="col-md-6">
-				<img src="Images/Cards/Card Img 1.svg" alt="Description Image"
+				<img src="Images/Cards/Card Img 4.svg" alt="Description Image"
 					class="img-fluid" id="img">
 			</div>
 			<!-- Description Column -->
@@ -75,5 +75,6 @@
 			</div>
 		</div>
 	</div>
+	
 </body>
 </html>

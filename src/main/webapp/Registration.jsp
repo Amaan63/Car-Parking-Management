@@ -48,7 +48,12 @@
 								type="password" class="form-control" id="exampleInputPassword1">
 						</div>
 
-						<button type="submit" class="btn custom-btn-bgcolor-orange ">Submit</button>
+						<button type="submit" class="btn custom-btn-bgcolor-orange col-md-12">Submit</button>
+						
+						<div class="align-end m-2"> 
+						<h6 class="text-light">Already Registered ?</h6> 
+						<a href="Login.jsp"><input type="button" class="btn-large custom-btn-bgcolor-orange" value="Login"></a>
+						</div>
 					</form>
 				</div>
 			</div>
