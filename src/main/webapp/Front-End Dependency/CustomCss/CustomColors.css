@@ -17,4 +17,15 @@
 .card-border{
 	border-color: white;
 }
+.custom-btn-outline {
+    border-color: #ffba08;
+    color: #ffba08;
+}
+
+.custom-btn-outline-custom:hover {
+    background-color: #ffba08;
+    color: #fff;
+}
+
+
 

@@ -38,10 +38,11 @@
 						</div>
 
 						<a href="Home.jsp"> <input type="button"
-							class=" custom-btn-bgcolor-orange " value="Login"></a>
-						<div class="align-end m-2"> 
-						<h6 class="text-light">Not Registered yet ?</h6> 
-						<a href="Registration.jsp"><input type="button" class="btn-large custom-btn-bgcolor-orange" value="Register"></a>
+							class=" btn-large custom-btn-bgcolor-orange col-md-12 " value="Login"></a>
+						<div class="align-end m-2">
+							<h6 class="text-light">Not Registered yet ?</h6>
+							<a href="Registration.jsp"><input type="button"
+								class="btn-large custom-btn-bgcolor-orange" value="Register"></a>
 						</div>
 					</form>
 				</div>

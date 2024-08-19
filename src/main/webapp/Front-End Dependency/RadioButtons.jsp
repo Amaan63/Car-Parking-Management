@@ -7,7 +7,6 @@
 <head>
 <meta charset="ISO-8859-1">
 <link rel="stylesheet" href="CustomCss/CustomColors.css">
-<link rel="stylesheet" href="CustomCss/radioButton.css">
 <style type="text/css">
 .radio-item {
 	display: flex;
@@ -45,11 +44,12 @@
 	border-color: #007bff; /* Change border color when selected */
 	box-shadow: 0 0 0 3px rgba(38, 143, 255, 0.5); /* Optional shadow */
 }
-</style>
+</style>  
+
 </head>
 <body>
 	<div class="container mt-5">
-		<h6 class=" mb-4">Select an Option</h6>
+		<h6 class="mb-4">Select an Option</h6>
 		<div class="row text-center">
 			<div class="col-md-3 col-6 mb-4">
 				<div class="radio-item">
@@ -62,9 +62,9 @@
 
 			<div class="col-md-3 col-6 mb-4">
 				<div class="radio-item">
-					<input type="radio" name="test" id="cb2"  value="Sedan"/> <label for="cb2">
-						<img src="Images/RadioButtonImage/Sedan.jpeg" alt="Option 2">
-						<span>Sedan</span>
+					<input type="radio" name="test" id="cb2" value="Sedan" /> <label
+						for="cb2"> <img src="Images/RadioButtonImage/Sedan.jpeg"
+						alt="Option 2"> <span>Sedan</span>
 					</label>
 				</div>
 			</div>
@@ -88,29 +88,30 @@
 			</div>
 			<div class="col-md-3 col-6 mb-4">
 				<div class="radio-item">
-					<input type="radio" name="test" id="cb4" /> <label for="cb4">
-						<img src="Images/RadioButtonImage/MiniVan.jpeg" alt="Option 4">
+					<input type="radio" name="test" id="cb5" /> <label for="cb5">
+						<img src="Images/RadioButtonImage/MiniVan.jpeg" alt="Option 5">
 						<span>Mini Van</span>
 					</label>
 				</div>
 			</div>
 			<div class="col-md-3 col-6 mb-4">
 				<div class="radio-item">
-					<input type="radio" name="test" id="cb4" /> <label for="cb4">
-						<img src="Images/RadioButtonImage/Bus.jpeg" alt="Option 4">
+					<input type="radio" name="test" id="cb6" /> <label for="cb6">
+						<img src="Images/RadioButtonImage/Bus.jpeg" alt="Option 6">
 						<span>Bus</span>
 					</label>
 				</div>
 			</div>
 			<div class="col-md-3 col-6 mb-4">
 				<div class="radio-item">
-					<input type="radio" name="test" id="cb4" /> <label for="cb4">
-						<img src="Images/RadioButtonImage/Truck.jpeg" alt="Option 4">
+					<input type="radio" name="test" id="cb7" /> <label for="cb7">
+						<img src="Images/RadioButtonImage/Truck.jpeg" alt="Option 7">
 						<span>Truck</span>
 					</label>
 				</div>
 			</div>
 		</div>
 	</div>
+
 </body>
 </html>

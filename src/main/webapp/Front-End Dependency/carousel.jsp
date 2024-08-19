@@ -17,14 +17,14 @@
 		data-bs-ride="carousel">
 		<div class="carousel-inner">
 			<div class="carousel-item active " data-bs-interval="900">
-				<img src="Images/Carousel Img 1.jpg" class="d-block w-100 carouselimg" alt="...">
+				<img src="Images/Carousel/Carousel Img 1.jpg" class="d-block w-100 carouselimg" alt="...">
 			</div>
 			
 			<div class="carousel-item" data-bs-interval="900">
-				<img src="Images/Carousel Img 2.png" class="d-block w-100 carouselimg" alt="...">
+				<img src="Images/Carousel/Carousel Img 2.png" class="d-block w-100 carouselimg" alt="...">
 			</div>
 			<div class="carousel-item" data-bs-interval="900">
-				<img src="Images/Carousel Img 3.jpg" class="d-block w-100 carouselimg" alt="...">
+				<img src="Images/Carousel/Carousel Img 3.jpg" class="d-block w-100 carouselimg" alt="...">
 			</div>
 		</div>
 		<button class="carousel-control-prev" type="button"
